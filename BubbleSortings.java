@@ -1,6 +1,6 @@
 package BubbleSort;
 
-public class BubbleSortings {
+public class BubbleSort {
 
 	public static void main(String[] args) {
 		
